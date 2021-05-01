@@ -1,2 +1,2 @@
-# resp_sounds
-notebook files
+# resp_sound_notebooks
+ipynb files
